@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="airend" fetch="." revision="or-15" />
-
+  <remote  name="secretwolf98" fetch="." revision="lineage-15.1" />
+  
   <remote  name="unlegacy" fetch="../Unlegacy-Android"
            revision="aosp-8.1" />
 
