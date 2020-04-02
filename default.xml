@@ -307,14 +307,14 @@
 
 <!-- END LINEAGEOS -->
 
-<!-- BEGIN NOOK TABLET --> 
-  <project path="vendor/bn" name="proprietary_vendor_bn" remote="secretwolf98" /> 
-  <project path="vendor/ti" name="proprietary_vendor_ti" remote="secretwolf98" revision="master" /> 
-  <project path="kernel/bn/omap" name="android_kernel_bn_omap" remote="airend" /> 
-  <project path="device/bn/common" name="android_device_bn_common" remote="airend" /> 
-  <project path="device/bn/acclaim" name="android_device_bn_acclaim" remote="secretwolf98" revision="cm-13.0" /> 
-  <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="omap4-aosp" /> 
-<!-- END NOOK TABLET -->
+<!-- BEGIN SONY EXPERIA --> 
+  <project path="vendor/sony/kanuti" name="vendor_sony_kanuti/tree/master" remote="AOSPERIA" revision="master" />
+  <project path="vendor/sony/tulip" name="vendor_sony_tulip" remote="AOSPERIA" revision="master" /> 
+  <project path="kernel/sony/kanuti/tulip" name="android_kernel_sony_kanuti_tulip" remote="Axaroid" revision="cm12.1-dualsim" />  
+  <project path="kernel/sony/msm8939" name="android_kernel_sony_msm8939" remote="boylush" revision="cm-13.0" /> 
+  <project path="device/sony/tulip" name="cm_device_tulip" remote="secretwolf98" revision="master" /> 
+  <project path="device/sony/kanuti" name="cm_device_kanuti" remote="secretwolf98" revision="cm-13.0" /> 
+<!-- END SONY EXPERIA -->
   
 <!-- BEGIN AOSP -->
   <project path="developers/build" name="platform/developers/build" remote="aosp" />
