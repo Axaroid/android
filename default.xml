@@ -12,7 +12,14 @@
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
-
+  
+  <!--edited from here-->
+  <remote name="secretwolf98" fetch="https://github.com/secretwolf98/" />
+  <remote name="Axaroid" fetch="https://github.com/Axaroid/" />
+  <remote name="boylush" fetch="https://github.com/boylush/" />
+  <remote name="AOSPERIA" fetch="https://github.com/AOSPERIA/" />
+  <!--edited to here-->
+  
   <default revision="refs/heads/cm-13.0"
            remote="github"
            sync-c="true"
