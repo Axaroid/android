@@ -318,7 +318,7 @@
   <project path="vendor/sony/kanuti" name="vendor_sony_kanuti/tree/master" remote="AOSPERIA" revision="master" />
   <project path="vendor/sony/tulip" name="vendor_sony_tulip" remote="AOSPERIA" revision="master" /> 
   <project path="kernel/sony/kanuti/tulip" name="android_kernel_sony_kanuti_tulip" remote="Axaroid" revision="cm12.1-dualsim" />  
-  <project path="kernel/sony/msm8939" name="android_kernel_sony_msm8939" remote="boylush" revision="cm-13.0" /> 
+  <project path="kernel/sony/msm8939" name="android_kernel_sony_msm8939" remote="boylush" revision="cm-13" /> 
   <project path="device/sony/tulip" name="cm_device_tulip" remote="secretwolf98" revision="master" /> 
   <project path="device/sony/kanuti" name="cm_device_kanuti" remote="secretwolf98" revision="cm-13.0" /> 
 <!-- END SONY EXPERIA -->
